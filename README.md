@@ -1,4 +1,4 @@
-# PosJarvis v1.0.0 Release Notes
+# PosJarvis v0.1.1 Release Notes
 
 We are excited to announce the release of PosJarvis v0.1.1! PosJarvis is a powerful time-tracking and posture management application designed to enhance your work routine and promote a healthier work-life balance.
 
