@@ -54,4 +54,8 @@ We are excited to announce the release of PosJarvis v0.1.5! PosJarvis is a power
 
 Thank you for choosing PosJarvis. We value your feedback, and if you have any suggestions or encounter any issues, please [open an issue on GitHub](https://github.com/mahdimdse/pos-jarvis-release/issues).
 
+## To install in macOS:
+
+Follow this [instruction](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/14.0/mac/14.0)
+
 Happy tracking and stay productive!
